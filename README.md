@@ -1,1 +1,1 @@
-# Proyecto-EcoStore
+# Proyecto-Store
